@@ -1,4 +1,3 @@
-import os
 import openai
 from api_keys import API_KEY
 
